@@ -14,8 +14,7 @@ Datapack for Minecraft 1.17.1+! Keep permanent baby bees!<br>
 
 <p>Uninstall the datapack with <code>/function babees:utility/uninstall</code>.</p>
 
-<img src=".github\resources\example.mov">
-
+https://user-images.githubusercontent.com/16215993/133002743-56a82ebd-69fe-4fb9-b09e-e24d065518db.mp4
 
 [release]:https://github.com/maxheyn/babees/releases/latest "Latest Release (external link)"
 [issues]:https://github.com/maxheyn/babees/issues "Issues (external link)"
