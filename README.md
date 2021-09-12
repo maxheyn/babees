@@ -19,4 +19,4 @@ Datapack for Minecraft 1.17.1+! Keep permanent baby bees!<br>
 
 [release]:https://github.com/maxheyn/babees/releases/latest "Latest Release (external link)"
 [issues]:https://github.com/maxheyn/babees/issues "Issues (external link)"
-[planetminecraft]: https://www.planetminecraft.com/data-pack/babees/ "Planet Minecraft Webpage (external link)"
+[planetminecraft]: https://www.planetminecraft.com/data-pack/babees-adorable-baby-bees/ "Planet Minecraft Webpage (external link)"
